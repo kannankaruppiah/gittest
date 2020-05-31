@@ -1,0 +1,9 @@
+stage("perpare")
+{
+install nginx
+}
+stage("prod")
+{
+install tomcat
+}
+
