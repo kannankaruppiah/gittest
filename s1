@@ -4,7 +4,8 @@ install nginx
 install jannan
 }
 stage("prod")
-{
+{sd
+asd
 install tomcat
 }
-
+}}
