@@ -1,6 +1,7 @@
 stage("perpare")
 {
 install nginx
+install jannan
 }
 stage("prod")
 {
